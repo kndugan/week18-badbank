@@ -1,0 +1,90 @@
+/* Bootstrap Card Margins */
+.card {
+    margin: 20px;
+    margin-top: 40px;
+}
+
+.card-header {
+    font-weight: bold;
+}
+
+/* NavBar */
+.mynav {
+    background: #fff; 
+}
+
+.navbar-brand {
+    margin-left: 50px;
+    margin-top: -5px;
+}
+
+.navbar-collapse {
+    margin-right: 70px;
+}
+
+.mydropdown {
+    margin-top: 6px !important;
+    margin-left: 70px !important;
+    border-bottom: 3px solid transparent !important;
+
+}
+
+/* NavBar Active Page Customizations */
+/* .nav-item a {
+    color: blue;
+}
+.nav-item.active a {
+    color: red;
+} */
+
+
+/* NavBar Hover Customizations */
+.mynav a {
+    margin-right: 30px; 
+    border-bottom: 3px solid transparent;
+}
+
+.mynav a:hover {
+    border-bottom: 3px solid #fff;
+}
+
+.mynav a:focus {
+    border-bottom: 3px solid #fff;
+    color: #fff;
+} 
+
+
+/* NavBar Dropdown Descriptions */
+.dropdown:hover .dropdown-menu {
+    display: block;
+    color: #000;
+    margin: 0; 
+    background: transparent;
+    border: transparent;
+    margin-left: -8px;
+}
+
+ .dropdown-menu a:hover {
+    background: transparent;
+ }
+
+
+
+ .datacard {
+    width: 500px;
+    margin-left: 145px;
+ }
+
+ .depositcard {
+    width: 500px;
+    margin-left: 145px;
+    line-height: 30px;
+    padding: 10px;
+    
+ }
+
+ .depositcard button {
+    margin-top: 10px;
+    width: 200px;
+ }
+
